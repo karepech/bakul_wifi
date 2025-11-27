@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LIVE EVENT (AUTO UPDATE)", Jadwal Bola Hari Ini
+https://raw.githubusercontent.com/Karepech/bakul wifi/main/event.m3u
+
+# --- Tambahkan channel kamu di bawah sini ---
